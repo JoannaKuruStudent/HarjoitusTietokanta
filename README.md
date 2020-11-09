@@ -1,4 +1,5 @@
 # HarjoitusTietokanta
 Kukkuu!
 Kukkuu taas!
-Viel�kin kukkuu!
+Vieläkin kukkuu!
+Kääk!
